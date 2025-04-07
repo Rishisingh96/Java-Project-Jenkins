@@ -10,10 +10,10 @@ class Rishi{
         System.out.println("Happy coding!");
 
         // // Adding a simple calculation
-        // int a = 5;
-        // int b = 10;
-        // int sum = a + b;
-        // System.out.println("The sum of " + a + " and " + b + " is: " + sum);
+        int a = 5;
+        int b = 10;
+        int sum = a + b;
+        System.out.println("The sum of " + a + " and " + b + " is: " + sum);
 
         // // End of the program
         // System.out.println("End of the program.");
